@@ -1,1 +1,1 @@
-# student-age-predictor-web-app
+# student-percentage-predictor-web-app
