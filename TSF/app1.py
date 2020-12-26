@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 15 23:27:40 2020
-
-@author: Harsha
-"""
 
 import numpy as np
 from flask import Flask, request, jsonify, render_template
